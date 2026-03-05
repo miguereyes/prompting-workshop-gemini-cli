@@ -38,8 +38,8 @@ El taller está dividido en 4 retos prácticos. Cada reto está diseñado para r
 *   **Misión:** Integrar el lado técnico y el ágil: generar un archivo `cloudbuild.yaml` para automatizar pruebas y construcción de contenedores, y luego redactar la historia de usuario correspondiente para el próximo sprint.
 
 ### 📂 Reto 5: Creación de Skills y Generación de Frontend (UI/UX & Diversión)
-**Directorio:** `cd reto-5-frontend`
-**Misión:** Configurar una "skill" o prompt maestro para convertir la CLI en un generador de componentes web estandarizado.
+*   **Directorio:** `cd reto-5-frontend`
+*   **Misión:** Configurar una "skill" o prompt maestro para convertir la CLI en un generador de componentes web estandarizado.
 Generar un prototipo interactivo y divertido basado en tu personaje favorito. Para asegurar que todos los asistentes practiquen los mismos conceptos técnicos, el prototipo **debe contener obligatoriamente las siguientes secciones**:
 1. **Cabecera Visual:** Una foto central (usando un emoji representativo) con una paleta de colores acorde al personaje.
 2. **Descripción:** Una breve sección explicando por qué es el mejor personaje.
